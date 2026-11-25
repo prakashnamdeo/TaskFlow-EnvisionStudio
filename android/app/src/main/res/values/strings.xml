@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">TaskFlow</string>
+    <string name="app_subtitle">Manage your work efficiently</string>
+
+    <!-- Summary Section -->
+    <string name="summary_total">Total</string>
+    <string name="summary_active">Active</string>
+    <string name="summary_completed">Completed</string>
+
+    <!-- Filters -->
+    <string name="filter_assignee_label">Assignee</string>
+    <string name="filter_status_label">Status</string>
+    <string name="filter_all">All</string>
+    <string name="filter_active">Active</string>
+    <string name="filter_completed">Completed</string>
+    <string name="filter_clear">Clear filters</string>
+
+    <!-- Assignees -->
+    <string name="assignee_aarav">Aarav</string>
+    <string name="assignee_priya">Priya</string>
+    <string name="assignee_rohan">Rohan</string>
+
+    <!-- Priorities -->
+    <string name="priority_high">High</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_low">Low</string>
+
+    <!-- Task Card -->
+    <string name="no_due_date">No due date</string>
+    <string name="badge_overdue">Overdue</string>
+    <string name="badge_completed">Completed</string>
+    <string name="due_prefix">Due: %1$s</string>
+
+    <!-- UI States -->
+    <string name="loading_tasks">Loading tasks…</string>
+    <string name="retry">Retry</string>
+    <string name="empty_tasks_title">No tasks found</string>
+    <string name="empty_tasks_desc">Create your first task to get started.</string>
+    <string name="empty_filtered_title">No matching tasks</string>
+    <string name="empty_filtered_desc">Try adjusting or clearing your filters to see tasks.</string>
+    <string name="add_task_button">Add Task</string>
+
+    <!-- Detail Screen -->
+    <string name="task_detail_title">Task Details</string>
+    <string name="label_description">Description</string>
+    <string name="label_due_date">Due Date</string>
+    <string name="label_priority">Priority</string>
+    <string name="label_assignee">Assignee</string>
+    <string name="label_status">Status</string>
+    <string name="action_mark_complete">Mark as Complete</string>
+    <string name="action_mark_incomplete">Mark as Incomplete</string>
+    <string name="status_completed_text">Completed</string>
+    <string name="status_active_text">In Progress</string>
+    <string name="no_description_provided">No description provided for this task.</string>
+
+    <!-- Add Task Screen -->
+    <string name="add_task_title">Create New Task</string>
+    <string name="title_hint">Task Title *</string>
+    <string name="description_hint">Description (Optional)</string>
+    <string name="due_date_hint">Select Due Date (Optional)</string>
+    <string name="create_task_button">Create Task</string>
+    <string name="select_date">Select Date</string>
+    <string name="clear_date">Clear Date</string>
+
+    <!-- Validation -->
+    <string name="error_title_required">Title is required and cannot be empty</string>
+    <string name="task_created_success">Task created successfully!</string>
+    <string name="task_updated_success">Task updated successfully</string>
+    <string name="task_update_failed">Failed to update task. Changes rolled back.</string>
+</resources>

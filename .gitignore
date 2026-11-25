@@ -1,0 +1,27 @@
+# Android & Gradle
+**/.gradle/
+**/build/
+**/.idea/
+**/*.iml
+**/local.properties
+**/.cxx/
+**/captures/
+**/.externalNativeBuild/
+**/.kotlin/
+
+# Node & Backend
+**/node_modules/
+backend/database/*.db
+backend/database/*.db-journal
+backend/database/*.db-wal
+backend/database/*.db-shm
+backend/tests/*.db*
+**/npm-debug.log*
+**/yarn-debug.log*
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
